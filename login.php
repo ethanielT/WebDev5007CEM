@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <?php include 'header.php'; ?>
     <h1>Login</h1>
     <form id="loginForm">
         <label for="username">Username:</label>

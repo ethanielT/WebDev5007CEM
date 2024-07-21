@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             const payload = { title, questions };
-            console.log('Payload:', payload); // Debugging output to ensure data is collected correctly
+            console.log('Payload:', payload); // Debugging output to ensure data is beeing collected correctly
 
             fetch('api/create_quiz.php', {
                 method: 'POST',

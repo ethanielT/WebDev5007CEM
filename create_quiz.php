@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <?php include 'header.php'; ?>
     <h1>Create Quiz</h1>
     <form id="createQuizForm">
         <label for="quizTitle">Quiz Title:</label>
