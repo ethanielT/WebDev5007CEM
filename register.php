@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Register - Quiz Website</title>
+    <title>Register - Quizzard</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>

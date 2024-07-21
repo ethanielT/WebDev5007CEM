@@ -14,7 +14,7 @@ if (!isset($_SESSION['user_id']) || !isset($_SESSION['is_admin']) || $_SESSION['
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Panel - Quiz Website</title>
+    <title>Admin Panel - Quizzard</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>

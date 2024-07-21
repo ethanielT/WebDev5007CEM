@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Create Quiz - Quiz Website</title>
+    <title>Create Quiz - Quizzard</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>

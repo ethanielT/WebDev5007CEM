@@ -11,7 +11,7 @@ $quizzes = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Home - Quiz Website</title>
+    <title>Quizzard - Quiz Taking and Sharing Website</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
