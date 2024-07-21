@@ -27,7 +27,7 @@ if ($user) {
     exit;
 }
 
-$hashedPassword = password_hash($password, PASSWORD_BCRYPT);
+$hashedPassword = password_hash($password, PASSWORD_BCRYPT); //password encryption
 $query = "INSERT INTO users (username, password) VALUES (?, ?)";
 $stmt = $pdo->prepare($query);
 $stmt->execute([$username, $hashedPassword]);
