@@ -3,6 +3,7 @@ session_start(); // Ensure this is at the top of the file
 ?>
 
 <header>
+    <meta content = "default-src 'none';" http-equiv = "Content-Security-Policy" />
     <h1><a href="index.php">Quizzard</a></h1>
     <nav>
         <ul>
